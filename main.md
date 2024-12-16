@@ -16,6 +16,9 @@
 - Маркированный список 2
 
 1. Нумерованный список
-2. Нумерованный список 
+2. Нумерованный список
 
+[Ссылка на сайт](https://mguu.ru)
+
+![image](https://habrastorage.org/webt/ki/ov/vc/kiovvc2smechwlixokgrghcmfqw.jpeg)
 
