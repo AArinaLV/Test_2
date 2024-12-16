@@ -22,3 +22,11 @@
 
 ![image](https://habrastorage.org/webt/ki/ov/vc/kiovvc2smechwlixokgrghcmfqw.jpeg)
 
+|Заголовок 1|Заголовок 2|
+|-----------|-----------|
+|Ячейка 1 |Ячейка 2|
+|Ячейка 3 |Ячейка 4|
+
+Это математическая формула $\bar(x) = \frac{\sum_{i=1}^n x_i}{n}$
+
+<p align+center> Это текст в разметке <b>HTML</b></p>
